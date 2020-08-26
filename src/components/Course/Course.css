@@ -1,0 +1,28 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin-bottom: 6px;
+    margin-right: 13px;
+    padding-bottom: 5px;
+}
+#headline {
+    color:black;
+
+}
+.course-name{
+    margin-top: 2rem;
+margin-left:3.5rem;
+    color:gray;
+    font-weight: 500;
+    font-size: 1.18rem;
+    padding: 6px;
+}
+.btn{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 7px;
+
+}

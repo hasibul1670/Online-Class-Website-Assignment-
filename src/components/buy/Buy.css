@@ -1,0 +1,15 @@
+.main-container{
+    display: flex;
+}
+.course-container{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 2px solid gray;
+}
+.my{
+    color: darkblue;
+    margin-left:1.1rem;
+    margin-top: 1.2rem;
+    font-size:1.2rem;
+}
